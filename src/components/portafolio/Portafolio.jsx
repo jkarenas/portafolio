@@ -20,7 +20,7 @@ const Portafolio = () => {
           <h3>Rick and morty app</h3>
           <div className="portafolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href="https://dribbble.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live demo</a>
           </div>
         </article>
         <article className='portafolio__item'>
@@ -30,7 +30,7 @@ const Portafolio = () => {
           <h3>Magic 8 ball</h3>
           <div className="portafolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href="https://dribbble.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live demo</a>
           </div>
         </article>
         <article className='portafolio__item'>
@@ -40,7 +40,7 @@ const Portafolio = () => {
           <h3>Calculator</h3>
           <div className="portafolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href="https://dribbble.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live demo</a>
           </div>
         </article>
         <article className='portafolio__item'>
@@ -50,7 +50,7 @@ const Portafolio = () => {
           <h3>Todo list</h3>
           <div className="portafolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href="https://dribbble.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live demo</a>
           </div>
         </article>
         
