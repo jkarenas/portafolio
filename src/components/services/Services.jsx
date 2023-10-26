@@ -17,28 +17,17 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>User-Centered Design: Creating intuitive interfaces tailored to the specific needs and preferences of the target audience.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Visual Design: Crafting visually appealing graphics, layouts, and branding elements for digital products.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Design Consultation: Offering expert guidance and recommendations to enhance the overall user experience of websites and applications.</p>
             </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
+
           </ul>
         </article>
         {/* END  OF UI/UX */}
@@ -51,27 +40,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Responsive Website Development: Building websites that adapt seamlessly to various devices and screen sizes.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Front-End Development: Crafting engaging user interfaces with HTML, CSS, and JavaScript.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Back-End Development: Developing robust server-side logic and databases for data management.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>E-Commerce Solutions: Creating online stores with secure payment gateways and product management.</p>
             </li>
           </ul>
         </article>
@@ -85,28 +66,17 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Visual Content Production: Creating eye-catching graphics, images, and videos to enhance digital presence.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Using code to automate social media content management and engagement.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
+              <p>Data-Backed Content Strategy: Analyzing data with code to optimize content strategies and personalization.</p>
             </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
-            </li>
+            
           </ul>
         </article>
         {/* END  OF CONTENT CREATION */}

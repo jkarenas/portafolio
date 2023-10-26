@@ -11,6 +11,9 @@ import {AiFillHtml5} from 'react-icons/ai'
 import {SiAdobephotoshop} from 'react-icons/si'
 import {SiAdobeillustrator} from 'react-icons/si'
 import {SiAdobepremierepro} from 'react-icons/si'
+import {BsGit} from "react-icons/bs"
+import {SiRedux} from "react-icons/si"
+import {SiTailwindcss} from "react-icons/si"
 
 
 
@@ -32,7 +35,7 @@ const About = () => {
             <article className='about__card'>
               <BsFillAwardFill className='about__icon'/>       
               <h5>Experience</h5>
-              <small>1+ Years Coding + Fluen in english and spanish</small>
+              <small>3+ Years in IT world + Fluent in english and spanish</small>
             </article>
            
             <article className='about__card'>
@@ -48,17 +51,21 @@ const About = () => {
            
             <article className='about__card'>
               <MdFolderCopy className='about__icon'/>       
-              <h5>Complementary stack</h5>
+              <h5>Other skills</h5>
               <small> 
                 <SiAdobephotoshop className='about__icon'/>
                 <SiAdobeillustrator className='about__icon'/>
                 <SiAdobepremierepro className='about__icon'/>
+                <BsGit className='about__icon'/>
+                <SiRedux className='about__icon'/>
+                <SiTailwindcss className='about__icon'/>
               </small>
             </article>
           </div>
 
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus sint et modi obcaecati eveniet dicta, ea soluta. Impedit, veritatis? Culpa similique autem unde in doloremque, quis vero eum natus obcaecati.
+          
+As a full-stack web developer, I apply my expertise in JavaScript, Node.js, React, Redux, UX/UI Design, and SQL with a creative approach. I excel in problem-solving, strong communication in both Spanish and English, and quick adaptability to different environments. My rapid learning ability is complemented by experience in graphic design, allowing me to craft exceptional web experiences that merge art and technology seamlessly.
         </p>
 
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>

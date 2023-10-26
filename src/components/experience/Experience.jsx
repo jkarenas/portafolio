@@ -24,7 +24,7 @@ const Experience = () => {
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
                <h4>CSS</h4>
-              <small className='text-light'>Intermediate</small> 
+              <small className='text-light'>Experienced</small> 
               </div>  
             </article>
 
@@ -40,7 +40,7 @@ const Experience = () => {
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
               <h4>React</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
@@ -61,8 +61,8 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-              <h4>MySQL</h4>
-              <small className='text-light'>Beginner</small>
+              <h4>PostgreSQL</h4>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
