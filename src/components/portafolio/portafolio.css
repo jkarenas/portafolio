@@ -31,8 +31,51 @@
     display:flex;
     gap:1rem;
     margin-bottom:1rem;
+    
 
 }
+.dropdown{
+    display: inline-block;    
+    width: max-content;
+    height: max-content;
+    
+}
+.dropdown button{
+
+    background-color:var(--color-primary);
+    color:var(--color-bg-variant);
+    padding: 1.2rem 1.2rem;
+    border:none;
+    cursor: pointer;
+    border-radius: 0.2em;
+   
+    
+    
+}
+.dropdown p{
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px; 
+}
+.dropdown .content{
+    display:none;
+    background-color:var(--color-light) ;
+    position: absolute;
+    min-width: 100px;
+    max-width: 300px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.726) ;
+    border-radius: 0.5rem;
+    margin-top: 0.3rem;
+}
+.dropdown:hover .content {
+    display: block;
+
+}
+.dropdown:hover button{
+    background-color: azure;
+}
+
 
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 
