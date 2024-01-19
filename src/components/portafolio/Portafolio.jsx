@@ -13,6 +13,22 @@ const Portafolio = () => {
       <h2>Portafolio</h2>
 
       <div className="container portafolio__container">
+
+      <article className='portafolio__item'>
+          <div className='portafolio__item-image'>
+          <iframe width="400" height="300" src="https://www.youtube.com/embed/v9pxbm21jME" title="netflix video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <h3>Netflix</h3>
+          <div className="portafolio__item-cta">
+            <a href="https://github.com/jkarenas/netflix-react" className='btn'>Github</a>
+            <div  className='dropdown' >
+              <button>Description</button>
+              <div className='content'>
+                <p>This app simulates a Netflix app, bringing the most popular movies and series, It was made with react.js, emotion css, node.js and SQL  </p>
+              </div>
+            </div>
+          </div>
+        </article>
         
         <article className='portafolio__item'>
           <div className='portafolio__item-image'>
